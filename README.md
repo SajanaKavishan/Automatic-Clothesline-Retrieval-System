@@ -66,3 +66,5 @@ Set up these Virtual Pins in the Blynk mobile app:
 | V8          | Manual Control (Button: 0/1)   |
 
 ---
+
+First Year First Semester Project | IoT Smart Systems | Mobile + Hardware Integration

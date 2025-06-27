@@ -30,3 +30,28 @@
 *.exe
 *.out
 *.app
+
+# Arduino build files
+*.hex
+*.elf
+*.bin
+
+# Arduino backup files
+*~
+*.bak
+*.tmp
+
+# Mac system files
+.DS_Store
+
+# VS Code project files
+.vscode/
+*.code-workspace
+
+# PlatformIO project files
+.pio/
+.clangd/
+.idea/
+
+# Blynk or WiFi credentials (your secrets)
+secrets.h

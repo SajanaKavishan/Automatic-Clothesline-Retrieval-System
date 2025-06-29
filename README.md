@@ -67,4 +67,10 @@ Set up these Virtual Pins in the Blynk mobile app:
 
 ---
 
+## 🎬 Demo Video
+
+[▶️ Watch the Demo on Google Drive](https://drive.google.com/file/d/1p9E3b54GaHJWDwu7A1uLKtrIPUjU67us/view?usp=drivesdk)
+
+---
+
 First Year First Semester Project | IoT Smart Systems | Mobile + Hardware Integration
